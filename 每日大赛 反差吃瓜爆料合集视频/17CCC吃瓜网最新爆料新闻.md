@@ -1,4 +1,5 @@
-# 用于平滑效果的缓冲区
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br># 用于平滑效果的缓冲区
         self lip_points_buffer = deque(maxlen=5)
     
     def get_lip_points(self, face_points):
